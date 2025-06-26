@@ -52,3 +52,4 @@ export default tseslint.config({
   },
 })
 ```
+## push code as shown in the backend part or check out on my channel becodewala (deploy react app)
